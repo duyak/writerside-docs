@@ -21,7 +21,7 @@ jobs:
       - name: Build Writerside docs
         uses: JetBrains/writerside-github-action@v4
         with:
-          instance: o
+          instance: writerside-docs/o
           artifact: webHelp
 
       - name: Upload artifact
