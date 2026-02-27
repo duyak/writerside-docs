@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="o"
-                 name="okokok"
+                 name="TRAN SON GIANG"
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
