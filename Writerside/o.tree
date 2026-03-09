@@ -6,6 +6,6 @@
                  name="NGUYEN DANG DUY"
                  start-page="camunda8-docker.md">
 
-    <toc-element topic="starter-topic.md"/>
     <toc-element topic="camunda8-docker.md"/>
+    <toc-element topic="starter-topic.md"/>
 </instance-profile>
